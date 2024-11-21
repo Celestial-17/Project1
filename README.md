@@ -1,4 +1,4 @@
-# Dissertation--Eddy
+# Dissertation - Eddy
 
 ## Overview
 
