@@ -2,7 +2,7 @@
 
 ## Overview
 
-The codebase is organized to implement the core methodologies outlined in the project:
+The codebase is structured to implement the core methodologies outlined in the project:
 
 1. **Ensemble Model Stacking**, which combines predictions from multiple Numerical Weather Prediction (NWP) models to improve wind power forecasting accuracy.
 2. **Adaptive Online Post-Processing**, designed to mitigate distribution shifts resulting from the growing presence of solar capacity in the online test dataset.
