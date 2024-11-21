@@ -2,13 +2,14 @@
 
 ## Overview
 
-The codebase is structured to reproduce the key methods described in the project:
+The codebase is organized to implement the core methodologies outlined in the project:
 
-1. **Stacking Models** trained on various Numerical Weather Predictions (NWPs) for wind power forecasting.
-2. **Online Post-Processing** model to address distribution shifts caused by increased solar capacity in the online test set.
-3. **Probabilistic Aggregation** technique to provide accurate quantile forecasts of total hybrid generation.
-4. **Stochastic Trading Strategy** to maximize expected trading revenue considering uncertainties in electricity prices.
+1. **Ensemble Model Stacking**, which combines predictions from multiple Numerical Weather Prediction (NWP) models to improve wind power forecasting accuracy.
+2. **Adaptive Online Post-Processing**, designed to mitigate distribution shifts resulting from the growing presence of solar capacity in the online test dataset.
+3. **Quantile-Based Probabilistic Aggregation**, aimed at generating precise probabilistic forecasts for total hybrid energy production.
+4. **Stochastic Trading Optimization**, which focuses on maximizing expected trading profits by accounting for uncertainties in electricity price fluctuations.
 5. **Value-Oriented Price Spread Forecasting** to further enhance the trading revenue.
+
 
 ## Usage
 
