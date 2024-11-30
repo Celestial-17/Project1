@@ -103,4 +103,4 @@ python solar_comp.py
 ```
 
 ## Acknowledgements
-We thank Professor Chris Dent and Gomez Anaya, Sergio for their helpful suggestions on the research project.
+I thank Professor Chris Dent and Gomez Anaya, Sergio for their helpful suggestions on the research project.
