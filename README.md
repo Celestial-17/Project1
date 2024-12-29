@@ -1,4 +1,4 @@
-# Dissertation - Eddy
+# Project
 
 ## Overview
 
