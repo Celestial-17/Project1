@@ -101,6 +101,3 @@ python plot_decision_loss.py
 python prices_anal.py
 python solar_comp.py
 ```
-
-## Acknowledgements
-I thank Professor Chris Dent and Gomez Anaya, Sergio for their helpful suggestions on the research project.
